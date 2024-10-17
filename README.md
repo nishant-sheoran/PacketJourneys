@@ -65,12 +65,12 @@ Welcome to PacketJourneys, a repository dedicated to exploring key concepts in C
 
 
 ## Technologies & Tools 🔧
-- Simulation Tools
-- - **Cisco Packet Tracer**
-- - **GNS3** (for network simulation)
-- - **NS-3 Simulator**
+# Simulation Tools
+- **Cisco Packet Tracer**
+- **GNS3** (for network simulation)
+- **NS-3 Simulator**
 
-- Programming Languages
-- - **Python** (for socket programming)
+# Programming Languages
+- **Python** (for socket programming)
 
 
