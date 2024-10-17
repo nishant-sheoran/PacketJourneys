@@ -3,6 +3,7 @@
 Welcome to PacketJourneys, a repository dedicated to exploring key concepts in Computer Networks through hands-on implementations and visualizations using Cisco Packet Tracer. From basic IP addressing to advanced routing protocols, this is your comprehensive guide to mastering networking fundamentals in a virtualized environment.
 
 ## Repository Structure
+```
 /PacketJourneys
 │
 ├── 📁 Labs/
@@ -26,7 +27,7 @@ Welcome to PacketJourneys, a repository dedicated to exploring key concepts in C
 │ └── ...
 │
 └── README.md
-
+```
 
 ## Concepts Covered 🔬
 
@@ -49,11 +50,11 @@ Welcome to PacketJourneys, a repository dedicated to exploring key concepts in C
 
 
 ## How to Use 🛠
-1. Clone this repository:
+- **Clone this repository:**
    ```bash
    git clone https://github.com/nishant-sheoran/PacketJourneys.git
-2. Navigate through the labs and projects in their respective folders.
-3. Each lab and project includes a dedicated README with instructions to get started.
+- **Navigate through the labs and projects in their respective folders.**
+- **Each lab and project includes a dedicated README with instructions to get started.**
 
 
 ## Cool Things You Can Do 💡
@@ -64,16 +65,12 @@ Welcome to PacketJourneys, a repository dedicated to exploring key concepts in C
 
 
 ## Technologies & Tools 🔧
+- Simulation Tools
+- - **Cisco Packet Tracer**
+- - **GNS3** (for network simulation)
+- - **NS-3 Simulator**
 
-## Simulation Tools
-- **Cisco Packet Tracer**
-- **GNS3** (for network simulation)
-- **NS-3 Simulator**
-
-## Programming Languages
-- **Python** (for socket programming)
-
-## Network Analysis
-- **Wireshark**
+- Programming Languages
+- - **Python** (for socket programming)
 
 
