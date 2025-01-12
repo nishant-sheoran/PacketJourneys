@@ -1,4 +1,4 @@
-# Network Design and Implementation for State Bank of India (SBI)
+# Network Design and Implementation for State Bank of India (SBI) 🏦
 
 ## Overview
 State Bank of India (SBI) is a leading financial institution in India. This project focuses on designing and implementing a secure, scalable, and high-performance network infrastructure for SBI’s headquarters and server-side site using Cisco Packet Tracer. The design adheres to the company's requirements for reliability, redundancy, scalability, and secure communication.
@@ -24,6 +24,8 @@ The project aims to:
 - **Devices per Department**:
   - 7th Floor: 40 user devices, 40 IP phones, and 1 WiFi Access Point (AP) per department.
   - 8th Floor: 20 user devices, 20 IP phones, and 1 WiFi AP per department.
+
+![SBI Network Architecture](network_diagram.png "SBI Network Diagram")
 
 ### Key Requirements
 - **Separate VLANs** for each department.
