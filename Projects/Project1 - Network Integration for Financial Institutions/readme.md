@@ -44,6 +44,9 @@ The project aims to:
 - **Public IPs**: 190.200.100.0/24
 - **Voice VLAN ID**: 120 (uniform across all departments).
 
+![Base Network Routing Table](images/base_network.png "Base Network Routing Table")
+![Server Side Routing Table](images/server_side.png "Base Network Routing Table")
+
 ---
 
 ## Technologies Implemented
