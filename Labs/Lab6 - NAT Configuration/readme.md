@@ -1,6 +1,6 @@
 # LAB 6: NAT Configuration 🖧
 
-Welcome to the **NAT Configuration Lab**! This lab explores how to configure Static and Dynamic NAT on Cisco routers. Networking can be fun and engaging—let's dive in! 🚀
+Welcome to the **NAT Configuration Lab**! This lab explores how to configure Static and Dynamic NAT on Cisco routers. Networking can be fun and engaging let's dive in! 🚀
 
 ## 📌 Static NAT Configuration
 
