@@ -18,7 +18,7 @@ Steps to configure Static NAT:
      ```
      ip nat outside
      ```
-
+![Static NAT Topology](s_nat_nd.png)
 ### Example 💡
 To map the private address `172.31.1.2` to the public address `200.100.100.2`:
 ```plaintext
@@ -47,7 +47,7 @@ Steps to configure Dynamic NAT:
    ```
    ip nat inside source list [access-list-number] pool [name]
    ```
-
+![Dynamic NAT Topology](d_nat_nd.png)
 ### Example 💡
 To allow internal hosts in the `172.31.1.0` network to access the internet using two public addresses `200.100.100.1` and `200.100.100.2`:
 ```plaintext
