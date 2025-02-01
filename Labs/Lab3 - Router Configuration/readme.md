@@ -71,8 +71,9 @@ After configuration, use the following commands to verify settings:
 - Enabled interfaces and added descriptions.
 - Secured router access using console authentication.
 
-📷 **Console Image:**
 ![Router Configuration](console.png)
+
+
 
 **Made with ❤️ by Nishant Sheoran**
 
